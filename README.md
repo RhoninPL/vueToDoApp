@@ -2,6 +2,9 @@
 
 > To do list
 
+Written in Vue 2
+There will be a change to the Vuex.
+
 ## Build Setup
 
 ``` bash
